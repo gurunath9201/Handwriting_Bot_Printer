@@ -10,3 +10,4 @@ fonttools
 PyPDF2
 python-docx
 googletrans
+requests
