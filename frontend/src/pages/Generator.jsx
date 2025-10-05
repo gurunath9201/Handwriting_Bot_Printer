@@ -1,3 +1,4 @@
+const API_BASE = import.meta.env.VITE_API_URL || 'http://localhost:8000';
 import React, { useState, useRef, useEffect } from 'react';
 import './Generator.css';
 
