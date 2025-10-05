@@ -1,0 +1,12 @@
+Flask
+Flask-CORS
+Pillow
+numpy
+opencv-python
+scikit-image
+perlin-noise
+bezier
+fonttools
+PyPDF2
+python-docx
+googletrans
